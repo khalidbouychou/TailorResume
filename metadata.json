@@ -1,0 +1,5 @@
+{
+  "name": "LaTeX Resume Adapter",
+  "description": "A high-performance tool that adapts your CV to a specific job description using AI, outputting clean, professional LaTeX code.",
+  "requestFramePermissions": []
+}
